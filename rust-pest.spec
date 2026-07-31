@@ -5,8 +5,8 @@
 %global crate pest
 
 Name:           rust-%{crate}
-Version:        2.1.2
-Release:        2%{?dist}
+Version:        2.8.8
+Release:        1%{?dist}
 Summary:        Elegant Parser
 
 # Upstream license specification: MIT/Apache-2.0
